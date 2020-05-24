@@ -1,0 +1,13 @@
+.PieChartCard{
+    width:89%;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    margin: 10px 16px;
+    
+    
+    
+}
+h3,p{
+    text-align: left ;
+    margin-left: 16px;
+}

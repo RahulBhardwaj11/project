@@ -1,0 +1,17 @@
+{
+    "data": {
+        "datasets":[
+            {
+                "backgroundColor": [
+                  "green",
+                  "yellow",
+                  "orange",
+                  "blue",
+                  "red"
+                ],
+                "data": [33, 27, 26, 14, 14]
+              }
+        ]
+        
+    }
+}
